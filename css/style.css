@@ -1,0 +1,12 @@
+.row-length{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border: 1px black;
+}
+.ans-block{
+    width: 200px;
+    height: 30px;
+    border-block-end-color: black;
+    background-color: blanchedalmond
+}
